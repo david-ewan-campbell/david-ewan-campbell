@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭  I’m currently working on... consolidating the Makers course materials, especially front-end applications using Javascript, HTML & CSS.
+- 🔭  I’m currently working on... consolidating the Makers course materials, especially front-end applications using Javascript & Ruby, HTML & CSS and working on code solutions/methods and building apps incrementally with TDD.
 
 - 🌱  I’m currently studying... The Odin Project as part of my consolidation.
 
